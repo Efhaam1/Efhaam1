@@ -14,6 +14,4 @@ Collaborative projects with [Haad Rehman](https://github.com/haad-rehman):
 - **The USUAL** — storefront for a student-built haircare brand · [Live site](https://the-usual-delta.vercel.app)
 - **Al Khair Dyeing** — website for a Karachi commission dyehouse · [Live site](https://al-khair-dyeing.vercel.app)
 - **Nuqta.** — brand and web design studio site · [Live site](https://nuqtaa.studio) · [Repository](https://github.com/haad-rehman/Nuqta.)
-- **Al Ayoon** — site for a 4×4 accessories and upholstery business · [Repository](https://github.com/haad-rehman/alayoon)
-
-**What I do:** software engineering · chess education tools
+- **Al Ayoon** — site for a 4×4 accessories and upholstery business · [Live site](https://alayoon.netlify.app) · [Repository](https://github.com/haad-rehman/alayoon)
