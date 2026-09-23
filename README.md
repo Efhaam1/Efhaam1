@@ -1,16 +1,19 @@
-## Hi there 👋
+# Efhaam Ahsan
 
-<!--
-**Efhaam1/Efhaam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [Teach64](https://teach64.com), building chess education tools. Software Engineer at Nuqtaa.
 
-Here are some ideas to get you started:
+- 🌐 [Teach64](https://teach64.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/efhaam-ahsan/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Selected project work
+
+Collaborative projects with [Haad Rehman](https://github.com/haad-rehman):
+
+- **The USUAL** — storefront for a student-built haircare brand · [Live site](https://the-usual-delta.vercel.app)
+- **Al Khair Dyeing** — website for a Karachi commission dyehouse · [Live site](https://al-khair-dyeing.vercel.app)
+- **Nuqta.** — brand and web design studio site · [Live site](https://nuqtaa.studio) · [Repository](https://github.com/haad-rehman/Nuqta.)
+- **Al Ayoon** — site for a 4×4 accessories and upholstery business · [Repository](https://github.com/haad-rehman/alayoon)
+
+**What I do:** software engineering · chess education tools
